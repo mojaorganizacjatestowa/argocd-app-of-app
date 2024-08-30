@@ -1,7 +1,7 @@
 # Default values for helm-guestbook.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-tst: tst-1
+tst: tst-2
 replicaCount: 1
 
 image:
